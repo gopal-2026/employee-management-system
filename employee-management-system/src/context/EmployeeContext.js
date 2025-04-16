@@ -1,7 +1,7 @@
 import { createContext, useState, useEffect } from 'react';
 import axios from 'axios';
 
-const API_URL = "https://employee-backend-mdk2.onrender.com/api/employees";
+const API_URL = "https://employee-backend-v0jj.onrender.com/";
 
 export const EmployeeContext = createContext();
 
